@@ -1,6 +1,6 @@
 <?php
 
-// Loop through all provided variables and generate secure versions.
+// Loop through all provided variables and generate secure versions..
 //
 // This function calls secure_function and passes an array of:
 //  { 
